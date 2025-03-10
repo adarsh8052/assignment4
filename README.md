@@ -5,7 +5,8 @@ Overview
 This Python program reads a text file named `sample.txt` and prints its content line by line. It includes error handling to manage cases where the file does not exist.
 
 Features
-Opens and reads a specified text file.
+
+Opens and reads a specified text file.\n
 Prints the content of the file line by line.
 Gracefully handles errors if the file is not found.
 
